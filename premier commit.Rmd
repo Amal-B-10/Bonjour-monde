@@ -1,0 +1,11 @@
+---
+title: "Premier commit"
+author: "BELEM Amal"
+date: "2024-12-12"
+output: html_document
+---
+
+```{r}
+print("Hello-world")
+```
+
